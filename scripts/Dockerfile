@@ -1,3 +1,3 @@
-FROM dcb9/qtum-insightapi
+FROM dcb9/btcbam-insightapi
 
 COPY init-accounts.sh /usr/local/bin/
